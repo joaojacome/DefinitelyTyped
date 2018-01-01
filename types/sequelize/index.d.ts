@@ -6546,4 +6546,4 @@ declare namespace sequelize {
 
 declare var sequelize: sequelize.SequelizeStatic;
 
-export = sequelize;
+export default sequelize;
